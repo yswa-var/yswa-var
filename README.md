@@ -2,7 +2,7 @@
 
 > "The secret of change is to focus all your energy not on fighting the old, but on building the new." – Socrates  
 
-I am a hiker blending technology with financial markets to create something crazy. My tools are in Python, automation, and data analysis. John Wickly focused on tools like backtesting libraries, trading indicators, and stock screening systems.  
+I am a hiker blending technology with financial markets to create something crazy. My artillery contains Python, automation, and data analysis. John Wickly focused on tools like backtesting libraries, trading indicators, and stock screening systems.  
 
 💡 **What I do:**  
 - Build frameworks for **financial data analysis** and **trading systems**.  
