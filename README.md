@@ -17,3 +17,5 @@ I am a hiker blending technology with financial markets to create something craz
 I enjoy writing blogs, trekking Himalayan trails, and exploring the wilderness. Check out my thoughts on [Medium](https://medium.com/@yashaswa).  
 
 🚀 Let’s connect and build something craazzzyyyyyyy!  
+
+https://docs.google.com/document/d/e/2PACX-1vR__qUpi1hgvxLCzEEAX4XbssDgLTGfxgPw3SnCjQ-0yTixaBmV49DmS7fmr6Z-R9qgTE0la8U-VD9Z/pub
