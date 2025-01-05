@@ -11,7 +11,8 @@ I am a hiker blending technology with financial markets to create something craz
 
 🌟 **Highlights:**  
 - Creator of [EasyBT](https://github.com/yswa-var/EasyBt), a Python library for effortless backtesting.  
-- Developed [ObsiWatchlist](https://github.com/yswa-var/obsiWatchlist) for customizable stock charting and analysis.  
+- Developed [ObsiWatchlist](https://github.com/yswa-var/obsiWatchlist) for customizable stock charting and analysis.
+- checkout pinned projects.  
 
 🌱 **Beyond Code:**  
 I enjoy writing blogs, trekking Himalayan trails, and exploring the wilderness. Check out my thoughts on [Medium](https://medium.com/@yashaswa).  
