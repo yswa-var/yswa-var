@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Yashaswa Varshney!  
 
+[RESUME](https://drive.google.com/file/d/1XEnx7NanvMVPqXOHSmUEhQqqYRJK8rRf/view?usp=sharing)
+
 > "The secret of change is to focus all your energy not on fighting the old, but on building the new." – Socrates  
 
 I am a hiker blending technology with financial markets to create something crazy. My artillery contains Python, automation, and data analysis. John Wickly focused on tools like backtesting libraries, trading indicators, and stock screening systems.  
@@ -19,4 +21,4 @@ I enjoy writing blogs, trekking Himalayan trails, and exploring the wilderness. 
 
 🚀 Let’s connect and build something craazzzyyyyyyy!  
 
-[RESUME](https://docs.google.com/document/d/e/2PACX-1vR__qUpi1hgvxLCzEEAX4XbssDgLTGfxgPw3SnCjQ-0yTixaBmV49DmS7fmr6Z-R9qgTE0la8U-VD9Z/pub)
+
