@@ -8,10 +8,7 @@ my role model is gpt-4o
 🔹 **Finance & Trading:** Algorithmic strategies, sector rotation analysis  
 🔹 **Backend Magic:** Python, FastAPI, Redis, Docker  
 
-## 🔥 Notable Projects  
-📌 **PolyMatch Resume Wizard** – AI-powered resume enhancer  
-📌 **Sector Rotation Graph** – Making market trends less confusing  
-📌 **More AI-powered chaos coming soon...**  
+### Projects: check pinned repos
 
 ## 🌎 Let's Connect!  
 🔗 [LinkedIn](https://linkedin.com/in/yashaswa-varshney)
