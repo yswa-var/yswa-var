@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yashaswa Varshney!  
+# 👋 Hey, I'm Yashaswa Varshney!  *open to work*
 
 AI/ML tinkerer, backend sorcerer & part-time bug slayer. I build AI-powered tools, optimize trading strategies, and sometimes break things.  
 my role model is gpt-4o
@@ -20,4 +20,5 @@ my role model is gpt-4o
 💬 Open to collabs, AI brainstorming & debugging rants!  
 
 ---
-*open to work*
+[ai_yashaswa.pdf](https://github.com/user-attachments/files/18781708/ai_yashaswa.pdf)
+
