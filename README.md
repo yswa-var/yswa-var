@@ -1,54 +1,65 @@
-<h1 align="center">yswa-var</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&width=700&lines=Yashaswa+Varshney+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+(Yash);Building+HyperBots+and+CLI+Spells;Currently+Wiring+LocoForge%3A+Prompt+%E2%86%92+DB" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/97/a9/93/97a993e966c9a8244038675f0407399d.gif" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif" width="500" alt="Matrix Rain"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ⚔️ Featured Spellbooks (Projects)
 
 <p align="center">
-  <a href="https://github.com/yswa-var/EasyBt"><strong>EasyBt</strong></a> <br>
-  🧠 Python library for backtesting trading strategies and generating buy/sell signals.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yswa-var/pocketpp"><strong>Pocket ++</strong></a> <br>
-  📖 Personal summarizing agent for web articles with local saving.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yswa-var/FilthyFilter"><strong>FilthyFilter</strong></a> <br>
-  🎞️ Python script to extract visually appealing frames from anime movies for wallpapers.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yswa-var/RRG"><strong>Dynamic Relative Rotation Graph (RRG)</strong></a> <br>
-  📊 Interactive RRG visualization using Yahoo Finance data.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yswa-var/chartink-backtestor"><strong>Chartink Backtestor</strong></a> <br>
-  📈 Analysis report on scanner performance across sectors and market caps.
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:yswa.var@icloud.com">
-    <img src="https://img.shields.io/badge/Email-yswa.var%40icloud.com-informational?style=flat-square&logo=gmail" alt="Email Badge">
+  <a href="https://github.com/yswa-var/EasyBt">
+    <img src="https://img.shields.io/badge/EasyBt-%F0%9F%A7%A0%20Backtest%20your%20alpha-171B24?style=for-the-badge&logo=python&logoColor=F7DF1E" />
   </a>
+  <br>
+  <code>brew install 🧠 // python lib for strategy backtesting + signal magic</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yswa-var/pocketpp">
+    <img src="https://img.shields.io/badge/Pocket++-%F0%9F%93%96%20Summarize+Save+Speed-1E1E2F?style=for-the-badge&logo=readthedocs" />
+  </a>
+  <br>
+  <code>~$ pocketpp https://longwebarticle.com | tee summary.md</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yswa-var/FilthyFilter">
+    <img src="https://img.shields.io/badge/FilthyFilter-%F0%9F%8E%9E%20Extract%20Wallpapers%20from%20Anime%20Madness-2B213A?style=for-the-badge&logo=adobephotoshop" />
+  </a>
+  <br>
+  <code>anime.exe --scrape --filter=cursed_beauty > waifuwallpaper.png</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yswa-var/RRG">
+    <img src="https://img.shields.io/badge/RRG-%F0%9F%93%88%20Visualize%20Market%20Swings-101010?style=for-the-badge&logo=chartdotjs" />
+  </a>
+  <br>
+  <code>pip install 🔮; rrg.py --ticker=ALL --mode=rotation</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yswa-var/chartink-backtestor">
+    <img src="https://img.shields.io/badge/Chartink--Backtestor-%F0%9F%93%88%20Sectoral%20Scan%20Analyzer-1A1A2E?style=for-the-badge&logo=chartdotjs" />
+  </a>
+  <br>
+  <code>~$ analyze.sh chartink --by=sector --range=YTD</code>
 </p>
 
 ---
 
-## 📊 Stats
+## 🧠 DNA of `Yash`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact" alt="Wakatime Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yswa-var&langs_count=10&layout=compact" alt="Top Languages" />
-</p>
+```js
+const yash = {
+  languages: ["Python 🐍", "Go ⚙️", "Swift 🍎", "JS ✨", "C# 🚀"],
+  hacks: ["Agent Orchestration", "Prompt-to-SQL", "Trading Bots", "Frame Scrapers"],
+  tools: ["LangGraph", "Streamlit", "Astro", "FFmpeg", "Terminal"],
+  current_quest: "🚧 Crafting LocoForge: Chat-to-Data Magic",
+  theme: "Dark Terminal + Neon Code Aesthetics",
+  OS: "macOS ARM + zsh + caffeine"
+}
