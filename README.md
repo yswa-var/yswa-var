@@ -6,6 +6,8 @@
   <img src="https://i.pinimg.com/originals/66/85/c0/6685c0909dd3b325e668c1d9b1e8ad26.gif" width="500" alt="Matrix Rain"/>
 </p>
 
+personal website: https://yswa-var.github.io//neo_citi/index.html
+
 ---
 
 ## ⚔️ Featured Spellbooks (Projects)
