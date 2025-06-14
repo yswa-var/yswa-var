@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&width=700&lines=Yashaswa+Varshney+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+(Yash);Building+HyperBots+and+CLI+Spells;Currently+Wiring+LocoForge%3A+Prompt+%E2%86%92+DB" alt="Typing SVG">
 </h1>
 
 <p align="center">
