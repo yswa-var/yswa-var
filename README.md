@@ -53,9 +53,9 @@ personal website: https://yswa-var.github.io//neo_citi/index.html
 
 ```js
 const yash = {
-  languages: ["Python 🐍", "Go ⚙️", "Swift 🍎", "JS ✨", "C# 🚀"],
-  hacks: ["Agent Orchestration", "Prompt-to-SQL", "Trading Bots", "Frame Scrapers"],
-  tools: ["LangGraph", "Streamlit", "Astro", "FFmpeg", "Terminal"],
+  languages: ["Python 🐍", "Go ⚙️"],
+  hacks: ["Prompting", "Agent Orchestration", "Prompt-to-SQL", "Trading Bots", "Frame Scrapers"],
+  tools: ["LangGraph", "Streamlit", "pySpark" "FFmpeg", "Terminal"],
   current_quest: "🚧 Crafting LocoForge: Chat-to-Data Magic",
   theme: "Dark Terminal + Neon Code Aesthetics",
   OS: "macOS ARM + zsh + caffeine"
