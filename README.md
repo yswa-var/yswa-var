@@ -53,7 +53,7 @@ personal website: https://yswa-var.github.io//neo_citi/index.html
 
 ```js
 const yash = {
-  languages: ["Python 🐍", "Go ⚙️"],
+  languages: ["Python (Backend, Ai application dev)" , "Go (blockchain dev, validators and backend)", "TypeScript (blockchain dev)-- still learning"],
   hacks: ["Prompting", "Agent Orchestration", "Prompt-to-SQL", "Trading Bots", "Frame Scrapers"],
   tools: ["LangGraph", "Streamlit", "pySpark" "FFmpeg", "Terminal"],
   current_quest: "🚧 Crafting LocoForge: Chat-to-Data Magic",
