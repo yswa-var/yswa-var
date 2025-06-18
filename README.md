@@ -16,6 +16,15 @@ personal website: https://yswa-var.github.io//neo_citi/index.html
 </p>
 
 <p align="center">
+  <a href="https://github.com/yswa-var/homelx">
+    <img src="https://img.shields.io/badge/homelx%F0%9F%A7%A0%20Backtest%20your%20alpha-171B24?style=for-the-badge&logo=python&logoColor=F7DF1E" />
+  </a>
+  <br>
+  <code>Hey yash 🤖 // chat with yash!! (ME)</code>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/yswa-var/pocketpp">
     <img src="https://img.shields.io/badge/Pocket++-%F0%9F%93%96%20Summarize+Save+Speed-1E1E2F?style=for-the-badge&logo=readthedocs" />
   </a>
