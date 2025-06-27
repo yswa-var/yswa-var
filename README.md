@@ -7,65 +7,81 @@ personal website: https://yswa-var.github.io//neo_citi/index.html
 
 ## ⚔️ Featured Spellbooks (Projects)
 
-<p align="center">
-  <a href="https://github.com/yswa-var/EasyBt">
-    <img src="https://img.shields.io/badge/EasyBt-%F0%9F%A7%A0%20Backtest%20your%20alpha-171B24?style=for-the-badge&logo=python&logoColor=F7DF1E" />
-  </a>
-  <br>
-  <code>brew install 🧠 // python lib for strategy backtesting + signal magic</code>
-</p>
+* **[LocoForge](https://github.com/yswa-var/LocoForge)** ✨
+  🤖 *Chat with sql and nosql databases like a business analyst*
 
-<p align="center">
-  <a href="https://github.com/yswa-var/homelx">
-    <img src="https://img.shields.io/badge/homelx%F0%9F%A7%A0%20Backtest%20your%20alpha-171B24?style=for-the-badge&logo=python&logoColor=F7DF1E" />
-  </a>
-  <br>
-  <code>Hey yash 🤖 // chat with yash!! (ME)</code>
-</p>
+  ```bash
+  Hey sql and nosql what's up! 📊
+  ```
 
+* **[EasyBt](https://github.com/yswa-var/EasyBt)**
+  🧠 *Backtest your alpha*
 
-<p align="center">
-  <a href="https://github.com/yswa-var/pocketpp">
-    <img src="https://img.shields.io/badge/Pocket++-%F0%9F%93%96%20Summarize+Save+Speed-1E1E2F?style=for-the-badge&logo=readthedocs" />
-  </a>
-  <br>
-  <code>~$ pocketpp https://longwebarticle.com | tee summary.md</code>
-</p>
+  ```bash
+  brew install 🧠 // python lib for strategy backtesting + signal magic
+  ```
 
-<p align="center">
-  <a href="https://github.com/yswa-var/FilthyFilter">
-    <img src="https://img.shields.io/badge/FilthyFilter-%F0%9F%8E%9E%20Extract%20Wallpapers%20from%20Anime%20Madness-2B213A?style=for-the-badge&logo=adobephotoshop" />
-  </a>
-  <br>
-  <code>anime.exe --scrape --filter=cursed_beauty > waifuwallpaper.png</code>
-</p>
+* **[homelx](https://github.com/yswa-var/homelx)**
+  🤖 *Chat with Yash (ME)*
 
-<p align="center">
-  <a href="https://github.com/yswa-var/RRG">
-    <img src="https://img.shields.io/badge/RRG-%F0%9F%93%88%20Visualize%20Market%20Swings-101010?style=for-the-badge&logo=chartdotjs" />
-  </a>
-  <br>
-  <code>pip install 🔮; rrg.py --ticker=ALL --mode=rotation</code>
-</p>
+  ```bash
+  Hey yash 🤖 // chat with yash!! (ME)
+  ```
 
-<p align="center">
-  <a href="https://github.com/yswa-var/chartink-backtestor">
-    <img src="https://img.shields.io/badge/Chartink--Backtestor-%F0%9F%93%88%20Sectoral%20Scan%20Analyzer-1A1A2E?style=for-the-badge&logo=chartdotjs" />
-  </a>
-  <br>
-  <code>~$ analyze.sh chartink --by=sector --range=YTD</code>
-</p>
+* **[Pocket++](https://github.com/yswa-var/pocketpp)**
+  📖 *Summarize + Save + Speed*
 
----
+  ```bash
+  ~$ pocketpp https://longwebarticle.com | tee summary.md
+  ```
+
+* **[FilthyFilter](https://github.com/yswa-var/FilthyFilter)**
+  🎞️ *Extract Wallpapers from Anime Madness*
+
+  ```bash
+  anime.exe --scrape --filter=cursed_beauty > waifuwallpaper.png
+  ```
+
+* **[RRG](https://github.com/yswa-var/RRG)**
+  📈 *Visualize Market Swings*
+
+  ```bash
+  pip install 🔮; rrg.py --ticker=ALL --mode=rotation
+  ```
+
+* **[Chartink-Backtestor](https://github.com/yswa-var/chartink-backtestor)**
+  📊 *Sectoral Scan Analyzer*
+
+  ```bash
+  ~$ analyze.sh chartink --by=sector --range=YTD
+  ```
 
 ## 🧠 DNA of `Yash`
 
 ```js
 const yash = {
-  languages: ["Python (Backend, Ai application dev)" , "Go (blockchain dev, validators and backend)", "TypeScript (blockchain dev)-- still learning"],
-  hacks: ["Prompting", "Agent Orchestration", "Prompt-to-SQL", "Trading Bots", "Frame Scrapers"],
-  tools: ["LangGraph", "Streamlit", "pySpark" "FFmpeg", "Terminal"],
+  languages: [
+    "Python (Backend, AI application development)",
+    "Go (Blockchain dev, validators, backend systems)",
+    "TypeScript (Blockchain dev) — still learning"
+  ],
+  hacks: [
+    "Prompting",
+    "Agent Orchestration",
+    "Prompt-to-SQL",
+    "Trading Bots",
+    "Frame Scrapers"
+  ],
+  tools: [
+    "LangGraph",
+    "Streamlit",
+    "PySpark",
+    "FFmpeg",
+    "Terminal"
+  ],
   current_quest: "🚧 Crafting LocoForge: Chat-to-Data Magic",
   theme: "Dark Terminal + Neon Code Aesthetics",
-  OS: "macOS ARM + zsh + caffeine"
+  OS: "macOS (ARM) + zsh + ☕️ caffeine"
 }
+```
+
