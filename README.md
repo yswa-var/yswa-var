@@ -11,7 +11,9 @@ personal website: https://yswa-var.github.io//neo_citi/index.html
   🤖 *Chat with sql and nosql databases like a business analyst*
 
   ```bash
-  Hey sql and nosql what's up! 📊
+  Hey sql and nosql what's up! 📊 AI-Powered Database Orchestration System
+  A sophisticated hybrid database query orchestration system built with LangGraph, featuring intelligent query classification, multi-agent execution, and seamless SQL/NoSQL integration.
+
   ```
 
 * **[EasyBt](https://github.com/yswa-var/EasyBt)**
