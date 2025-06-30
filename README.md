@@ -58,7 +58,7 @@ personal website: https://yswa-var.github.io//neo_citi/index.html
   ~$ analyze.sh chartink --by=sector --range=YTD
   ```
 
-## 🧠 DNA of `Yash`
+## Who me ??
 
 ```js
 const yash = {
