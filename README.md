@@ -1,89 +1,68 @@
-<h1 align="center">
-</h1>
+## 🚀 Personal Website
 
-personal website: https://yswa-var.github.io//neo_citi/index.html
+[yswa-var.github.io/neo\_citi](https://yswa-var.github.io/neo_citi)
 
 ---
 
-## ⚔️ Featured Spellbooks (Projects)
+## ⚔️ Featured Spellbooks
 
-* **[LocoForge](https://github.com/yswa-var/LocoForge)** ✨
-  🤖 *Chat with sql and nosql databases like a business analyst*
+* **LocoForge** ✨
+  Chat with SQL & NoSQL like a business analyst.
+  *LangGraph · AI-Powered Database Orchestration*
+  [github.com/yswa-var/LocoForge](https://github.com/yswa-var/LocoForge)
 
-  ```bash
-  Hey sql and nosql what's up! 📊 AI-Powered Database Orchestration System
-  A sophisticated hybrid database query orchestration system built with LangGraph, featuring intelligent query classification, multi-agent execution, and seamless SQL/NoSQL integration.
+* **EasyBt** 🧠
+  Backtest your alpha with Python.
+  *brew install easybt*
+  [github.com/yswa-var/EasyBt](https://github.com/yswa-var/EasyBt)
 
-  ```
+* **homelx** 🤖
+  Chat with Yash (ME).
+  [github.com/yswa-var/homelx](https://github.com/yswa-var/homelx)
 
-* **[EasyBt](https://github.com/yswa-var/EasyBt)**
-  🧠 *Backtest your alpha*
+* **Pocket++** 📖
+  Summarize & save web articles instantly.
+  `pocketpp <url> | tee summary.md`
+  [github.com/yswa-var/pocketpp](https://github.com/yswa-var/pocketpp)
 
-  ```bash
-  brew install 🧠 // python lib for strategy backtesting + signal magic
-  ```
+* **FilthyFilter** 🎞️
+  Extract anime wallpapers.
+  `anime.exe --scrape --filter=cursed_beauty`
+  [github.com/yswa-var/FilthyFilter](https://github.com/yswa-var/FilthyFilter)
 
-* **[homelx](https://github.com/yswa-var/homelx)**
-  🤖 *Chat with Yash (ME)*
+* **RRG** 🔮
+  Visualize market swings.
+  `rrg.py --ticker ALL --mode rotation`
+  [github.com/yswa-var/RRG](https://github.com/yswa-var/RRG)
 
-  ```bash
-  Hey yash 🤖 // chat with yash!! (ME)
-  ```
+* **Chartink-Backtestor** 📊
+  Sectoral scan analyzer.
+  `analyze.sh chartink --by=sector --range=YTD`
+  [github.com/yswa-var/chartink-backtestor](https://github.com/yswa-var/chartink-backtestor)
 
-* **[Pocket++](https://github.com/yswa-var/pocketpp)**
-  📖 *Summarize + Save + Speed*
+* **async-chat-server**
+  Real-time TCP chat server built with Rust & Tokio for multiple clients.
+  *rust · chat-server · tokio-rs*
+  [github.com/yswa-var/async-chat-server](https://github.com/yswa-var/async-chat-server)
 
-  ```bash
-  ~$ pocketpp https://longwebarticle.com | tee summary.md
-  ```
+* **cargo-size-report**
+  Analyze & report compiled crate sizes in your Cargo workspace.
+  *rust · cargo · cargo-plugin*
+  [github.com/yswa-var/cargo-size-report](https://github.com/yswa-var/cargo-size-report)
 
-* **[FilthyFilter](https://github.com/yswa-var/FilthyFilter)**
-  🎞️ *Extract Wallpapers from Anime Madness*
-
-  ```bash
-  anime.exe --scrape --filter=cursed_beauty > waifuwallpaper.png
-  ```
-
-* **[RRG](https://github.com/yswa-var/RRG)**
-  📈 *Visualize Market Swings*
-
-  ```bash
-  pip install 🔮; rrg.py --ticker=ALL --mode=rotation
-  ```
-
-* **[Chartink-Backtestor](https://github.com/yswa-var/chartink-backtestor)**
-  📊 *Sectoral Scan Analyzer*
-
-  ```bash
-  ~$ analyze.sh chartink --by=sector --range=YTD
-  ```
-
-## Who me ??
+## 🧠 About Me
 
 ```js
 const yash = {
   languages: [
-    "Python (Backend, AI application development)",
-    "Go (Blockchain dev, validators, backend systems)",
-    "rust (Blockchain dev) — still learning"
+    "Python (Backend, AI apps)",
+    "Go (Blockchain, backend)",
+    "Rust (Blockchain)"
   ],
-  hacks: [
-    "Prompting",
-    "Agent Orchestration",
-    "Prompt-to-SQL",
-    "Trading Bots",
-    "Frame Scrapers"
-  ],
-  tools: [
-    "LangGraph",
-    "Streamlit",
-    "PySpark",
-    "FFmpeg",
-    "Terminal"
-  ],
+  hacks: ["Prompting","Agent Orchestration","Prompt-to-SQL","Trading Bots","Frame Scrapers"],
+  tools: ["LangGraph","Streamlit","PySpark","FFmpeg","Terminal"],
   current_quest: "🚧 Crafting LocoForge: Chat-to-Data Magic",
   theme: "Dark Terminal + Neon Code Aesthetics",
   OS: "macOS (ARM) + zsh + ☕️ caffeine"
 }
 ```
-
