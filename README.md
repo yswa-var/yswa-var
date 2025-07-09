@@ -1,8 +1,4 @@
-## 🚀 Personal Website
-
-[yswa-var.github.io/neo\_citi](https://yswa-var.github.io/neo_citi)
-
----
+## Open to Work
 
 ## ⚔️ Featured Spellbooks
 
