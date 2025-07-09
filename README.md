@@ -65,7 +65,7 @@ const yash = {
   languages: [
     "Python (Backend, AI application development)",
     "Go (Blockchain dev, validators, backend systems)",
-    "TypeScript (Blockchain dev) — still learning"
+    "rust (Blockchain dev) — still learning"
   ],
   hacks: [
     "Prompting",
