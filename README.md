@@ -1,11 +1,10 @@
 ## Open to Work
-
-## ⚔️ Featured Spellbooks
-
+---
 * **LocoForge** ✨
   Chat with SQL & NoSQL like a business analyst.
   *LangGraph · AI-Powered Database Orchestration*
   [github.com/yswa-var/LocoForge](https://github.com/yswa-var/LocoForge)
+---
 
 * **EasyBt** 🧠
   Backtest your alpha with Python.
