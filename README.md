@@ -1,63 +1,59 @@
-## Open to Work
+# Yashaswa Varshney (YASH) 🚀
+
+**Rust × Solana × AI‑Agent Engineer**
+*Building production‑grade infra at the intersection of blockchains & LLMs*
+
+[![Email](https://img.shields.io/badge/email-yswa.var%40icloud.com-informational?style=flat\&logo=gmail)](mailto:yswa.var@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashaswa%20Varshney-blue?logo=linkedin)](https://linkedin.com/in/yashaswa-varshney)
+[![GitHub Followers](https://img.shields.io/github/followers/yswa-var?label=Follow\&style=social)](https://github.com/yswa-var)
+📍 India (IST)  |  🎯 *Open to Solana / AI‑infra roles*
+
 ---
-* **LocoForge** ✨
-  Chat with SQL & NoSQL like a business analyst.
-  *LangGraph · AI-Powered Database Orchestration*
-  [github.com/yswa-var/LocoForge](https://github.com/yswa-var/LocoForge)
+
+## ⚡️ TL;DR
+
+* 👷 **LocoForge** — LangGraph‑powered prompt‑to‑query orchestrator (SQL & NoSQL)
+* 🔑 **Tilt‑Validator** — Threshold‑signature MPC + VRF validator for Solana
+* 🛠️ **cargo‑size‑report**, **async‑chat‑server**, **mini KV (memmap2)**
+
 ---
 
-* **EasyBt** 🧠
-  Backtest your alpha with Python.
-  *brew install easybt*
-  [github.com/yswa-var/EasyBt](https://github.com/yswa-var/EasyBt)
+## 🛠️ Tech Toolbox
 
-* **homelx** 🤖
-  Chat with Yash (ME).
-  [github.com/yswa-var/homelx](https://github.com/yswa-var/homelx)
+`Rust` · `Python` · `Go` · `TypeScript` · `FastAPI` · `Tokio` · `LangGraph` · `LLM Orchestration` · `Solana SDK` · `PostgreSQL / MongoDB` · `Docker / GitHub Actions`
 
-* **Pocket++** 📖
-  Summarize & save web articles instantly.
-  `pocketpp <url> | tee summary.md`
-  [github.com/yswa-var/pocketpp](https://github.com/yswa-var/pocketpp)
+---
 
-* **FilthyFilter** 🎞️
-  Extract anime wallpapers.
-  `anime.exe --scrape --filter=cursed_beauty`
-  [github.com/yswa-var/FilthyFilter](https://github.com/yswa-var/FilthyFilter)
+## 🚀 Featured Projects
 
-* **RRG** 🔮
-  Visualize market swings.
-  `rrg.py --ticker ALL --mode rotation`
-  [github.com/yswa-var/RRG](https://github.com/yswa-var/RRG)
+| Project               | Stack                           | What it does                                                                            | Links                                                               |
+| --------------------- | ------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **LocoForge**         | LangGraph · FastAPI · Streamlit | Routes natural‑language queries to SQL/NoSQL agents with fallback logic & live trace UI | [Repo](https://github.com/yswa-var/locoforge) · [Demo Video](#)     |
+| **Tilt‑Validator**    | Rust · libp2p · Solana          | Secure t‑of‑n MPC signing + VRF‑based fair validator selection                          | [Repo](https://github.com/yswa-var/tilt-validator) · [Tech Blog](#) |
+| **cargo‑size‑report** | Rust · cargo‑plugin             | CLI tool that prints detailed crate size breakdowns after build                         | [Crates.io](https://crates.io/crates/cargo-size-report)             |
+| **Mini KV**           | Rust · memmap2 · borsh          | Memory‑mapped key‑value store exploring lifetimes & unsafe                              | [Post](#) · [Repo](https://github.com/yswa-var/mini-kv)             |
 
-* **Chartink-Backtestor** 📊
-  Sectoral scan analyzer.
-  `analyze.sh chartink --by=sector --range=YTD`
-  [github.com/yswa-var/chartink-backtestor](https://github.com/yswa-var/chartink-backtestor)
+> *More projects →* **[github.com/yswa-var?tab=repositories](https://github.com/yswa-var?tab=repositories)**
 
-* **async-chat-server**
-  Real-time TCP chat server built with Rust & Tokio for multiple clients.
-  *rust · chat-server · tokio-rs*
-  [github.com/yswa-var/async-chat-server](https://github.com/yswa-var/async-chat-server)
+---
 
-* **cargo-size-report**
-  Analyze & report compiled crate sizes in your Cargo workspace.
-  *rust · cargo · cargo-plugin*
-  [github.com/yswa-var/cargo-size-report](https://github.com/yswa-var/cargo-size-report)
+## 📈 GitHub Stats
 
-## 🧠 About Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yswa-var&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yswa-var" alt="Streak Stats"/>
+</p>
 
-```js
-const yash = {
-  languages: [
-    "Python (Backend, AI apps)",
-    "Go (Blockchain, backend)",
-    "Rust (Blockchain)"
-  ],
-  hacks: ["Prompting","Agent Orchestration","Prompt-to-SQL","Trading Bots","Frame Scrapers"],
-  tools: ["LangGraph","Streamlit","PySpark","FFmpeg","Terminal"],
-  current_quest: "🚧 Crafting LocoForge: Chat-to-Data Magic",
-  theme: "Dark Terminal + Neon Code Aesthetics",
-  OS: "macOS (ARM) + zsh + ☕️ caffeine"
-}
-```
+---
+
+## 🤝 How to Reach Me
+
+* **DM** on Twitter/X [@yswa\_var](https://twitter.com/yswa_var)
+* **Email** directly → `yswa.var@icloud.com`
+* **Open an issue** on any repo if you have bugs, ideas, or collaboration offers
+
+> **“Momentum beats perfection.”** – my build philosophy
+
+---
+
+<p align="center"><sub>Built with ❤️ & ☕ in Vim · Last updated: July 2025</sub></p>
