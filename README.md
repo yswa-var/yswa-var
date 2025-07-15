@@ -36,14 +36,9 @@
 > *More projects →* **[github.com/yswa-var?tab=repositories](https://github.com/yswa-var?tab=repositories)**
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yswa-var&show_icons=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yswa-var" alt="Streak Stats"/>
-</p>
-
+## 🔍 Most Active Projects
+[![LocoForge](https://github-readme-stats.vercel.app/api/pin/?username=yswa-var&repo=locoforge&theme=tokyonight)](https://github.com/yswa-var/locoforge)
+[![Tilt-Validator](https://github-readme-stats.vercel.app/api/pin/?username=yswa-var&repo=tilt-validator&theme=tokyonight)](https://github.com/yswa-var/tilt-validator)
 ---
 
 ## 🤝 How to Reach Me
