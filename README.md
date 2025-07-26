@@ -1,4 +1,5 @@
-# Yashaswa Varshney (YASH) [yswa-var](https://bento.me/yswa-var)
+# Yashaswa Varshney (YASH) 
+https://yswa-var.vercel.app/
 
 **Go, Py, rust(still learning) × Solana × AI‑Agent Engineer**
 *Building production‑grade infra at the intersection of blockchains & LLMs*
