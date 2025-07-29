@@ -1,7 +1,7 @@
 # Yashaswa Varshney (YASH) 
 https://yswa-var.vercel.app/
 
-**Go, Py, rust(still learning) × Solana × AI‑Agent Engineer**
+**Go, Py, rust × Solana × AI‑Agent Engineer**
 *Building production‑grade infra at the intersection of blockchains & LLMs*
 
 [![Email](https://img.shields.io/badge/email-yswa.var%40icloud.com-informational?style=flat\&logo=gmail)](mailto:yswa.var@icloud.com)
