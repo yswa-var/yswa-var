@@ -14,7 +14,6 @@ https://yswa-var.vercel.app/
 ##  TL;DR
 
 *  **LocoForge** — LangGraph‑powered prompt‑to‑query orchestrator (SQL & NoSQL)
-*  **Tilt‑Validator** — Threshold‑signature MPC + VRF validator for Solana
 *  **cargo‑size‑report**, **async‑chat‑server**, **mini KV (memmap2)**
 
 ---
@@ -30,7 +29,7 @@ https://yswa-var.vercel.app/
 | Project               | Stack                           | What it does                                                                            | Links                                                               |
 | --------------------- | ------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | **LocoForge**         | LangGraph · FastAPI · Streamlit | Routes natural‑language queries to SQL/NoSQL agents with fallback logic & live trace UI | [Repo](https://github.com/yswa-var/locoforge) · [Demo Video](#)     |
-| **Tilt‑Validator**    | Rust · libp2p · Solana          | Secure t‑of‑n MPC signing + VRF‑based fair validator selection                          | [Repo](https://github.com/yswa-var/tilt-validator) · [Tech Blog](#) |
+| **solana-splits**    | Rust · libp2p · Solana          | split signatures                           | [Repo](https://github.com/yswa-var/SolMPC-Node) |
 | **cargo‑size‑report** | Rust · cargo‑plugin             | CLI tool that prints detailed crate size breakdowns after build                         | [Crates.io](https://crates.io/crates/cargo-size-report)             |
 | **Mini KV**           | Rust · memmap2 · borsh          | Memory‑mapped key‑value store exploring lifetimes & unsafe                              | [Post](#) · [Repo](https://github.com/yswa-var/mini-kv)             |
 
@@ -39,7 +38,7 @@ https://yswa-var.vercel.app/
 ---
 ## 🔍 Most Active Projects
 [![LocoForge](https://github-readme-stats.vercel.app/api/pin/?username=yswa-var&repo=locoforge&theme=tokyonight)](https://github.com/yswa-var/locoforge)
-[![Tilt-Validator](https://github-readme-stats.vercel.app/api/pin/?username=yswa-var&repo=tilt-validator&theme=tokyonight)](https://github.com/yswa-var/tilt-validator)
+[![Tilt-Validator](https://github-readme-stats.vercel.app/api/pin/?username=yswa-var&repo=SolMPC-Node&theme=tokyonight)](https://github.com/yswa-var/tilt-validator)
 ---
 
 ## How to Reach Me
