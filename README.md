@@ -1,5 +1,5 @@
 # Yashaswa Varshney (YASH) 
-https://yswa-var.vercel.app/
+[https://yswa-var.vercel.app/](https://obsi-m1.pages.dev/)
 
 **Go, Py, rust × Solana × AI‑Agent Engineer**
 *Building production‑grade infra at the intersection of blockchains & LLMs*
