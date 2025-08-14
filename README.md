@@ -1,15 +1,15 @@
 # Yashaswa Varshney (YASH) 
 [Portfolio](https://obsi-m1.pages.dev/)
 
-**Go, Py, rust × Solana × Lnaggraph 🫀**
+**Go, Py, rust x Solana x langGraph 🫀**
 *Building infra at the intersection of blockchains & LLM*
 
  *Open to Solana AI infra roles*
 
 ---
 
-*  **OpenHedgeFund** - langgraph based strategy coding, backtesting engine, a highly reliable agentic system. 
-*  **LocoForge** — LangGraph based prompt to query orchestrator (SQL & NoSQL)
+*  **OpenHedgeFund** langgraph based strategy coding, backtesting engine, a highly reliable agentic system. 
+*  **LocoForge** LangGraph based prompt to query orchestrator (SQL & NoSQL)
 
 ---
 
