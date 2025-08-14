@@ -23,4 +23,3 @@
 * **Email** yswa.var@icloud.com
 * **Open an issue** on any repo if you have bugs, ideas, or collaboration offers
 
----
