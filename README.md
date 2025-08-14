@@ -12,7 +12,7 @@
 ---
 
 ##  TL;DR
-
+*  **OpenHedgeFund** - langgraph based strategy coding, backtesting engine, a highly reliable agentic system. 
 *  **LocoForge** — LangGraph‑powered prompt‑to‑query orchestrator (SQL & NoSQL)
 *  **cargo‑size‑report**, **async‑chat‑server**, **mini KV (memmap2)**
 
