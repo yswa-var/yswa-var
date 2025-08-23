@@ -5,6 +5,7 @@ I make projects!
 some experimental... some useful.
 
 some of my fav projects:
+- [SolMart](https://github.com/yswa-var/P2P_MKV_FE_V1) decentralized peer-to-peer marketplace on solana
 - [OpenHedgeFund](https://github.com/starkfleet/openhedgefund) langGraph based trading strategy coding engine + back-tester. 
 - [LocoForge](https://github.com/yswa-var/LocoForge) langGraph based prompt to chat with db (sql and nosql)
 - [Vectoria](https://github.com/yswa-var/Vectoria) personal RAG knowledge base in your CLI, Lightning fast, with features like (remember, index, forget, list, search, vector-search)
