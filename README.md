@@ -3,5 +3,5 @@
 
 I'm open to work. 
 
-X.com https://twitter.com/yswa_var
+X.com [https://twitter.com/yswa_var](https://x.com/YswaVar)
 mail: yswa.var@icloud.com
