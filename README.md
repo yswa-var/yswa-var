@@ -1,4 +1,4 @@
-portfolio: https://yswavar.vercel.app/
+portfolio: www.yswa.site
 x.com https://x.com/YswaVar
 Bnglr, Delhi, In
 
